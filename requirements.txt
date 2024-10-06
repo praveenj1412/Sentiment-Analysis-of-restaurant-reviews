@@ -149,6 +149,7 @@ pandocfilters==1.5.0
 parso==0.8.3
 peft==0.13.0
 pickleshare==0.7.5
+pip==24.2
 Pillow==10.0.0
 platformdirs==3.10.0
 plotly==5.23.0
