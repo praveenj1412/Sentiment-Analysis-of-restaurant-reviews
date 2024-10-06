@@ -1,3 +1,4 @@
 nltk==3.9.1
 torch==2.2.1
+streamlit==1.37.1
 vision==1.0.0
